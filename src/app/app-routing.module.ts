@@ -5,6 +5,7 @@ import { SecondComponent } from './second/second.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import {HeroesComponent} from './heroes/heroes.component'
 
+
 const routes: Routes = [
   { path: 'first-component', component: FirstComponent },
   { path: 'second-component', component: SecondComponent },
